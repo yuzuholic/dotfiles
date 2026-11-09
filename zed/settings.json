@@ -1,0 +1,33 @@
+{
+  "auto_install_extensions": {
+    "catppuccin-icons": true,
+    "nvim-nightfox": true
+  },
+  "icon_theme": "Catppuccin Macchiato",
+  "cli_default_open_behavior": "existing_window",
+  "agent": {
+    "button": false
+  },
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+    "anthropic_retention": false
+  },
+  "ui_font_size": 18,
+  "buffer_font_size": 15,
+  "theme": {
+    "mode": "dark",
+    "light": "One Light",
+    "dark": "Carbonfox - blurred",
+  },
+  "theme_overrides": {
+    "Carbonfox - blurred": {
+      "background": "#161616A6",
+      "title_bar.background": "#0c0c0c80",
+      "status_bar.background": "#0c0c0c80"
+    }
+  },
+}
